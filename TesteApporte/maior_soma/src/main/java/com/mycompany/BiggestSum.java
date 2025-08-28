@@ -1,8 +1,6 @@
 package com.mycompany;
 
 public class BiggestSum {
-   public BiggestSum() {
-   }
 
    public static int MaxSum(int[] numbers) {
       int max = numbers[0];
